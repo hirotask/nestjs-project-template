@@ -1,7 +1,6 @@
 # nestjs-project-template
 
-<p align="center">Template for building NestJS with devcontainer</p>
-<p align="center">
+<p>
 <img src="https://img.shields.io/badge/node-v22.1.0_-blue" alt="Node Version" />
 <img src="https://img.shields.io/badge/pnpm-9.1.1_-blue" alt="pnpm Version" />
 <img src="https://img.shields.io/badge/nestjs-10.0.0_-blue" alt="NestJS Version" />
@@ -10,8 +9,7 @@
 
 ## Description
 
-- [Nest](https://github.com/nestjs/nest) → framework TypeScript starter repository.
-- [pnpm](https://pnpm.io) → Fast, disk space efficient package manager
+This repository is a template for building NestJS with devcontainer.
 
 ## Installation
 
